@@ -1,0 +1,3 @@
+def my_function():
+    """Demonstrates triple quotes docstrings."""
+    return None
